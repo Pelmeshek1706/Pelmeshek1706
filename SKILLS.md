@@ -106,7 +106,7 @@
 |🟦GMM        |🟦t-SNE       |                        |
 |🟦HAC        |🟦Isomap Embendding|                   |
 |🟦DBSCAN     |🟦MDS         |                        |
-|🟦PCA        |              |                        |
+|🟩PCA        |              |                        |
 |🟦UMAP       |              |                        |
 
 
