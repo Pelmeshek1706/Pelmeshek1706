@@ -1,6 +1,6 @@
 # Personal profile of ML engineering skills
 
-⬜ Optional, 🟦 Required for all, 🟨 Required for js, 🟩 Learned, 🟥 Declined
+⬜ Optional, 🟦 Required for all, 🟩 Learned, 🟥 Declined
 
 
 ## Macine Learning 
@@ -46,7 +46,7 @@
 |Feed Forward NN| Recurent NN|Auto Encoders|Generative Adversarial Networks|Convolutional NN|
 |---------------|------------|-------------|-------------------------------|----------------|
 |🟦Deep Feed Forward|🟦RNN  |🟦Sparse AE    |🟦Wasserstein GAN            |🟦Transposed CN |
-|🟦Feed Forward |🟦LSTM     |🟦Denoising AE |🟦Cycle GAN                  |🟦Deep CN       |
+|🟦Feed Forward |🟩LSTM     |🟦Denoising AE |🟦Cycle GAN                  |🟦Deep CN       |
 |               |🟦GRU      |🟦Variatoinal AE|🟦Deep Conolutional GAN     |                |
 |               |            |🟦Undercomplete AE|🟦Conditional GAN        |                |
 
