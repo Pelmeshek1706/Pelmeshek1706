@@ -45,9 +45,9 @@
 
 |Feed Forward NN| Recurent NN|Auto Encoders|Generative Adversarial Networks|Convolutional NN|
 |---------------|------------|-------------|-------------------------------|----------------|
-|🟩Deep Feed Forward|🟦RNN  |🟦Sparse AE    |🟩Wasserstein GAN            |🟦Transposed CN |
-|🟦Feed Forward |🟩LSTM     |🟦Denoising AE |🟦Cycle GAN                  |🟦Deep CN       |
-|               |🟦GRU      |🟦Variatoinal AE|🟦Deep Conolutional GAN     |                |
+|🟩Deep Feed Forward|🟩RNN  |🟦Sparse AE    |🟩Wasserstein GAN            |🟦Transposed CN |
+|🟩Feed Forward |🟩LSTM     |🟦Denoising AE |🟩Cycle GAN                  |🟦Deep CN       |
+|               |🟩GRU      |🟦Variatoinal AE|🟩Deep Conolutional GAN     |                |
 |               |            |🟦Undercomplete AE|🟦Conditional GAN        |                |
 
 
