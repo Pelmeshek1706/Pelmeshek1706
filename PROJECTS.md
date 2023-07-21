@@ -6,3 +6,4 @@
 - [Find best wine for me](https://github.com/Pelmeshek1706/best_wine) - analyze the wine dataset and using DistilBert for recomendation system
 - [Uber predict miles](https://github.com/Pelmeshek1706/uber_eda_n_ml) - Eda for trips and using base ML regression algorithms to find the best
 - [DDos prediction](https://github.com/Pelmeshek1706/ddos_detection) - using base ML classification algorithms to detect ddos
+- [Stock forecasting](https://github.com/Pelmeshek1706/stock_forecasting) - using ml to predict the value of any company's stock.
