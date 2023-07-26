@@ -8,3 +8,4 @@
 - [DDos prediction](https://github.com/Pelmeshek1706/ddos_detection) - using base ML classification algorithms to detect ddos
 - [Stock forecasting](https://github.com/Pelmeshek1706/stock_forecasting) - using ml to predict the value of any company's stock.
 - [Crunchbase Analysis](https://github.com/Pelmeshek1706/crunchbase_analysis) - Explanation of the total amount of funding raised 
+- [Telegram chat analysis](https://github.com/Pelmeshek1706/telegram-chat-analyse) - EDA of data, feature extracting, using NLP libraries for topic modeling, highlighting users' top words, classification of data by sentiment
