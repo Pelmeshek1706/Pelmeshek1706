@@ -11,7 +11,7 @@
 |--------------|----------|------------------------|
 |🟩KNN Classification|🟩KNN Regression|🟦LDA       |
 |🟩XGBoost     |🟦MARS    |                        |
-|🟦AdaBoost    |🟩SVR     |                        |
+|🟩AdaBoost    |🟩SVR     |                        |
 |🟩Gradient Boosted Trees|🟦LOWESS|                |
 |🟩Random Forest Classification|🟩Random Forest Regression||
 |🟩Decision Tree Classification|🟩Decision Tree Regression|
