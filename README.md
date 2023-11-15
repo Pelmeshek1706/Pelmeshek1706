@@ -9,4 +9,3 @@
 <code>🧑‍💻 Languages: Python, JavaScript</code>
 <code>📦 Tech stack: NLP, Data Mining, Tensorflow, Keras, SciPy, Scikit-learn, Matplotlib, Tranformers</code>
 <code>🪙 [Rates](RATES.md)</code><br>
-<code>💬 telegram: [@pelmeshek1706](https://telegram.me/pelmeshek1706)</code>
