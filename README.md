@@ -7,5 +7,5 @@
 <code>📢 [Public talks: 0](TALKS.md)</code>
 <code>👀 [Open-source contribution](CONTRIBUTION.md)</code><br>
 <code>🧑‍💻 Languages: Python, JavaScript</code>
-<code>📦 Tech stack: NLP, Data Mining, Tensorflow, Keras, SciPy, Scikit-learn, Matplotlib, Tranformers, Azure, OpenAI, Langchain</code>
+<code>📦 Tech stack: NLP, Data Mining, Tensorflow, Keras, SciPy, Scikit-learn, Matplotlib, Tranformers, Azure, OpenAI, Langchain, AzureML</code>
 <code>🪙 [Rates](RATES.md)</code><br>
