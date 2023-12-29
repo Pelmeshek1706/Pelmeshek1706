@@ -10,6 +10,6 @@
 - [Crunchbase Analysis](https://github.com/Pelmeshek1706/crunchbase_analysis) - Explanation of the total amount of funding raised 
 - [Telegram chat analysis](https://github.com/Pelmeshek1706/telegram-chat-analyse) - EDA of data, feature extracting, using NLP libraries for topic modeling, highlighting users' top words, classification of data by sentiment
 - [Car prediction interface](https://github.com/Pelmeshek1706/car_predict_interface) - model for predict car price with interface that can help to buy/sell car
-
+-------------------------------------------------------
 - [RAG bot in telegram](https://github.com/Pelmeshek1706/rag_bot/tree/main) - developed RAG based on my own files using OpenAI API and Langchain
 - [Adding Goggle Search to GPT3.5](https://github.com/Pelmeshek1706/gpt_n_internet) - for better responce gpt now can googling any questions 
