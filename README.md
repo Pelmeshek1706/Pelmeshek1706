@@ -1,4 +1,4 @@
-<code>🎓 Student: KPI / IO-05 Nikita Basenko</code>
+<code>🎓 Student</code>
 <code>🎓 [Education](EDUCATION.md)</code><br>
 <code>⚪ Community: Bandera Mafia</code>
 <code>👷 Speciality: Data Scientist/Machine Learning Engineer/Data analyst</code><br>
